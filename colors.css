@@ -1,0 +1,334 @@
+﻿.bg-Red {
+    background-color: #f44336 !important;
+    color: white;
+}
+
+.bg-Purple {
+    background-color: #9c27b0 !important;
+    color: white;
+}
+
+.bg-Indigo {
+    background-color: #3f51b5 !important;
+    color: white;
+}
+
+.bg-LightBlue {
+    background-color: #87ceeb !important;
+    color: black;
+}
+
+.bg-Aqua {
+    background-color: #00ffff !important;
+    color: black;
+}
+
+.bg-Green {
+    background-color: #4caf50 !important;
+    color: white;
+}
+
+.bg-Lime {
+    background-color: #cddc39 !important;
+    color: black;
+}
+
+.bg-Khaki {
+    background-color: #f0e68c !important;
+    color: black;
+}
+
+.bg-Amber {
+    background-color: #ffc107 !important;
+    color: black;
+}
+
+.bg-DeepOrange {
+    background-color: #ff5722 !important;
+    color: white;
+}
+
+.bg-Brown {
+    background-color: #795548 !important;
+    color: white;
+}
+
+.bg-Gray {
+    background-color: #9e9e9e !important;
+    color: black;
+}
+
+.bg-PaleRed {
+    background-color: #ffdddd !important;
+    color: black;
+}
+
+.bg-PaleGreen {
+    background-color: #60e8bc !important;
+    color: black;
+}
+
+.bg-Pale-Blue {
+    background-color: #ddffff !important;
+    color: black;
+}
+
+.bg-Pale-Yellow {
+    background-color: #ffffcc !important;
+    color: black;
+}
+
+.bg-Pink {
+    background-color: #e91e63 !important;
+    color: white;
+}
+
+.bg-Deep-Purple {
+    background-color: #673ab7 !important;
+    color: white;
+}
+
+.bg-Blue {
+    background-color: #2196f3 !important;
+    color: white;
+}
+
+.bg-Cyan {
+    background-color: #00bcd4 !important;
+    color: black;
+}
+
+.bg-Teal {
+    background-color: #009688 !important;
+    color: white;
+}
+
+.bg-Light-Green {
+    background-color: #8bc34a !important;
+    color: black;
+}
+
+.bg-Sand {
+    background-color: #fdf5e6 !important;
+    color: black;
+}
+
+.bg-Yellow {
+    background-color: #ffeb3b !important;
+    color: black;
+}
+
+.bg-Orange {
+    background-color: #ff9800 !important;
+    color: black;
+}
+
+.bg-Blue-Gray {
+    background-color: #607d8b !important;
+    color: white;
+}
+
+.bg-Light-Gray {
+    background-color: #f1f1f1 !important;
+    color: black;
+}
+
+.bg-Dark-Gray {
+    background-color: #616161 !important;
+    color: white;
+}
+
+
+.color-Indigo {
+    color: #3f51b5 !important;
+    font-weight:bold;
+}
+
+
+.card {
+    line-height: 2.5;
+}
+
+#overlay {
+    position: fixed;
+    z-index: 99;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    filter: Alpha(Opacity=80);
+    opacity: 0.8;
+    -moz-opacity: 0.8;
+}
+
+#theprogress {
+    background-color: #fff;
+    /*border: 1px solid #ccc;*/
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    line-height: 30px;
+    text-align: center;
+}
+
+#modalprogress {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    /*margin: -11px 0 0 -150px;*/
+    /*color: #990000;*/
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bordered {
+    border: 1px solid #f00;
+}
+
+.back_Yellow {
+    background-color: gold;
+}
+
+.fore_white {
+    color: white;
+}
+
+.zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.cardSpace {
+    display: flex;
+}
+
+    .cardSpace > div {
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+
+.bg-fonz {
+    background-color: #495057 !important;
+}
+
+.fore-lemon{
+    color:#4df200
+}
+
+.fore-lemon:hover{
+    color:#E5FB2E
+}
+
+
+.text-Red {
+    color: #f44336 !important;
+}
+
+.text-Purple {
+    color: #9c27b0 !important;
+}
+
+.text-Indigo {
+    color: #3f51b5 !important;
+}
+
+.text-LightBlue {
+    color: #87ceeb !important;
+}
+
+.text-Aqua {
+    color: #00ffff !important;
+}
+
+.text-Green {
+    color: #4caf50 !important;
+}
+
+.text-Lime {
+    color: #cddc39 !important;
+}
+
+.text-Khaki {
+    color: #f0e68c !important;
+}
+
+.text-Amber {
+    color: #ffc107 !important;
+}
+
+.text-DeepOrange {
+    color: #ff5722 !important;
+}
+
+.text-Brown {
+    color: #795548 !important;
+}
+
+.text-Gray {
+    color: #9e9e9e !important;
+}
+
+.text-PaleRed {
+    color: #ffdddd !important;
+}
+
+.text-PaleGreen {
+    color: #60e8bc !important;
+}
+
+.text-Pale-Blue {
+    color: #ddffff !important;
+}
+
+.text-Pale-Yellow {
+    color: #ffffcc !important;
+}
+
+.text-Pink {
+    color: #e91e63 !important;
+}
+
+.text-Deep-Purple {
+    color: #673ab7 !important;
+}
+
+.text-Blue {
+    color: #2196f3 !important;
+}
+
+.text-Cyan {
+    color: #00bcd4 !important;
+}
+
+.text-Teal {
+    color: #009688 !important;
+}
+
+.text-Light-Green {
+    color: #8bc34a !important;
+}
+
+.text-Sand {
+    color: #fdf5e6 !important;
+}
+
+.text-Yellow {
+    color: #ffeb3b !important;
+}
+
+.text-Orange {
+    color: #ff9800 !important;
+}
+
+.text-Blue-Gray {
+    color: #607d8b !important;
+}
+
+.text-Light-Gray {
+    color: #f1f1f1 !important;
+}
+
+.text-Dark-Gray {
+    color: #616161 !important;
+}
+
